@@ -1,0 +1,5 @@
+begin program;
+str = 'Hello world ';
+integer myInt = 55;
+Boolean bol = true;
+end
