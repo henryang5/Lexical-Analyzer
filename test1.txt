@@ -1,0 +1,5 @@
+a% = 5.5;
+b# = (a% - b$);
+c% = a% / b#;
+PRINT "the result is ";
+PRINT c%

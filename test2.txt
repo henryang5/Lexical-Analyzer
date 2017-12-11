@@ -1,0 +1,6 @@
+area$ = "area of circle is ";
+pi% = 3.1415;
+radius# = 8;
+area% = pi% * radius# ^ 2;
+PRINT area$;
+PRINT area%
